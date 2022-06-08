@@ -4,6 +4,9 @@
 使用wokrerman来进行数据收发
 
 ## 使用方法：
+
+composer require wokrerman/wokrerman
+
 composer require lttxws/jt808
 
 分别以命令行的形式启动根目录下 server.php client.php
